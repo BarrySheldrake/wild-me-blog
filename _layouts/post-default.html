@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body>
+
+    {% include header.html %}
+
+    <div class="header-image" style="background-image: url( /img/{{page.bgimage}}); background-size: cover">
+        <!--h1 class="featured-post-title">Check out this one!</h1-->
+    </div>
+     
+    <div class="page-content">
+      <div class="wrapper">
+        {{ content }}
+      </div>
+    </div>
+  
+      
+    {% include footer.html %}
+
+  </body>
+
+</html>
