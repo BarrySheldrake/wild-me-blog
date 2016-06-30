@@ -3,6 +3,7 @@ layout: post
 title:  "My first blog post"
 date:   2016-06-21 21:06:54 +0100
 categories: awesomeness
+bgimage: isaac-meg.jpg
 ---
 
 Hi, my name is Isaac Sheldrake. I am 9 years old and have a real love for the environment. I especially like to search out small bugs and love to watch birds. 
