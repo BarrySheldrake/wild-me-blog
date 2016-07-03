@@ -16,6 +16,6 @@ I also think it's important to let you know *how you can help* all these creatur
 
 I do a lot of my wild investigating with my dog Meg. Here is a picture of me and my dog Meg. 
 
-![me and meg](../img/isaac-meg.jpg 'Me and Meg')
+![me and meg](/assets/img/isaac-meg.jpg 'Me and Meg')
 
 I hope you enjoy my blog and if you'd like to get in touch please do. 

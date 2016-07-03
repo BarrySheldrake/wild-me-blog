@@ -16,6 +16,6 @@ Here is a list of what I saw through the upstairs window this morning
 - Black bird  
 - and a blue tit on a red hot pocker 
 
-![blue tit](/img/blue-tit.jpg 'Blue tit feeding on a red hot poker')
+![blue tit](/assets/img/blue-tit.jpg 'Blue tit feeding on a red hot poker')
 
 Blue tit feeding on a red hot poker
