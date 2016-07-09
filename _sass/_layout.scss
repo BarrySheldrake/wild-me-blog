@@ -97,6 +97,9 @@
     }
 }
 
+td {
+    padding-bottom: $spacing-unit;
+}
 .post-meta {
     font-size: $medium-font-size;
     color: lighten($red, 15%);
@@ -163,3 +166,4 @@
         }
     }
 }
+

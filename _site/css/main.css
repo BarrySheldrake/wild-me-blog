@@ -193,6 +193,9 @@ blockquote {
   .post-list > li {
     margin-bottom: 30px; }
 
+td {
+  padding-bottom: 30px; }
+
 .post-meta {
   font-size: 19.2px;
   color: #f18c94; }
